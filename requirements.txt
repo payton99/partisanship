@@ -2,6 +2,6 @@ pandas
 numpy
 requests
 beautifulsoup4
-google-cloud-bigquery
-apache-airflow
-logging
+# google-cloud-bigquery
+# apache-airflow
+# logging
